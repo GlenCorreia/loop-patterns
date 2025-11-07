@@ -1,1 +1,1 @@
-[C-Patterns](./patterns.jpg)
+![C-Patterns](./assets/patterns.jpg)
