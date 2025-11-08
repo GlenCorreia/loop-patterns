@@ -19,7 +19,7 @@ int main() {
     return 0;
 }
 
-/* OUTPUT
+/* OUTPUT: Right Half Pyramid
 
   Enter the number of rows: 5
   *
