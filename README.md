@@ -2,7 +2,7 @@
 
 
 ```
-1. Right Half Pyramid
+a. Right Half Pyramid
 ---
 *
 * *
@@ -11,7 +11,7 @@
 * * * * *
 ```
 ```
-2. Left Half Pyramid
+b. Left Half Pyramid
 ---
         *
       * *
@@ -20,7 +20,7 @@
 * * * * *
 ```
 ```
-3. Full Pyramid
+c. Full Pyramid
 ---
     *
    * *
@@ -29,7 +29,7 @@
 * * * * *
 ```
 ```
-4. Inverted Right Half Pyramid
+d. Inverted Right Half Pyramid
 ---
 * * * * *
 * * * *
@@ -38,7 +38,7 @@
 *
 ```
 ```
-5. Inverted Left Half Pyramid
+e. Inverted Left Half Pyramid
 ---
 * * * * *
   * * * *
@@ -47,7 +47,7 @@
         *
 ```
 ```
-6. Inverted Full Pyramid
+f. Inverted Full Pyramid
 ---
 * * * * *
  * * * *
@@ -56,7 +56,7 @@
     *
 ```
 ```
-7. Rhombus Pattern
+g. Rhombus Pattern
 ---
 * * * *
  * * * *
@@ -65,7 +65,7 @@
     * * * *
 ```
 ```
-8. Diamond Pattern
+h. Diamond Pattern
 ---
    *
   * *
@@ -76,7 +76,7 @@
    *
 ```
 ```
-9. Hourglass Pattern
+i. Hourglass Pattern
 ---
 * * * *
  * * *
@@ -87,7 +87,7 @@
 * * * *
 ```
 ```
-10. Hollow Square Pattern
+j. Hollow Square Pattern
 ---
 * * * * *
 *       *
@@ -97,7 +97,7 @@
 * * * * *
 ```
 ```
-11. Hollow Full Pyramid
+k. Hollow Full Pyramid
 ---
     *
    * *
@@ -106,7 +106,7 @@
 * * * * *
 ```
 ```
-12. Hollow Inverted Full Pyramid
+l. Hollow Inverted Full Pyramid
 ---
 * * * * *
  *     *
@@ -115,7 +115,7 @@
     *
 ```
 ```
-13. Hollow Diamond Pyramid
+m. Hollow Diamond Pyramid
 ---
    *
   * *
@@ -126,7 +126,7 @@
    *
 ```
 ```
-14. Hollow Hourglass Pattern
+n. Hollow Hourglass Pattern
 ---
 * * * *
  *   *
@@ -137,7 +137,7 @@
 * * * *
 ```
 ```
-15. Floyd's Triangle
+o. Floyd's Triangle
 ---
 1
 2 3
@@ -145,7 +145,7 @@
 7 8 9 10
 ```
 ```
-16. Pascal's Triangle
+p. Pascal's Triangle
 ---
    1
   1 1
@@ -153,7 +153,7 @@
 1 3 3 1
 ```
 ```
-17. Number Triangle 1
+q. Number Triangle 1
 ---
 1 2 3 4 5
 2 3 4 5 
@@ -162,7 +162,7 @@
 5
 ```
 ```
-18. Number Triangle 2
+r. Number Triangle 2
 ---
 1 2 3 4 5
 1 2 3 4  
@@ -171,7 +171,7 @@
 1
 ```
 ```
-19. Number Triangle 3
+s. Number Triangle 3
 ---
 5 4 3 2 1
 4 3 2 1
@@ -180,7 +180,7 @@
 1
 ```
 ```
-20. Number Triangle 4
+t. Number Triangle 4
 ---
 1
 1 2 
@@ -189,7 +189,7 @@
 1 2 3 4 5 
 ```
 ```
-21. Number Triangle 5
+u. Number Triangle 5
 ---
 1
 2 2 
@@ -198,7 +198,7 @@
 5 5 5 5 5 
 ```
 ```
-22. Number Triangle 6
+v. Number Triangle 6
 ---
 5
 4 4 
@@ -207,7 +207,7 @@
 1 1 1 1 1
 ```
 ```
-23. Number Triangle 7
+w. Number Triangle 7
 ---
 5
 5 4
@@ -216,7 +216,7 @@
 5 4 3 2 1 
 ```
 ```
-24. Number Triangle 8
+x. Number Triangle 8
 ---
 1 1 1 1 1 
 2 2 2 2 
@@ -225,7 +225,7 @@
 5
 ```
 ```
-25. Number Triangle 9
+y. Number Triangle 9
 ---
 5 5 5 5 5 
 4 4 4 4 
@@ -234,7 +234,7 @@
 1
 ```
 ```
-26. Number Triangle 10
+z. Number Triangle 10
 ---
 5 4 3 2 1 
 5 4 3 2
