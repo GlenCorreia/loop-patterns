@@ -12,9 +12,9 @@ int main() {
       printf(" ");
 		}
 		
-		// Inner loop prints 'i' stars
+		// Inner loop prints 'i' characters
 		for (j = 1; j <= i; j++) {
-      printf(" *");
+      printf("* "); // (" * works as well")
 		}
 		// Move to the next line
 		printf("\n");

@@ -8,9 +8,9 @@ int main() {
 
     // Outer loop for rows
     for (i = 1; i <= rows; i++) {
-        // Inner loop for printing stars in each row
+        // Inner loop for printing character in each row
         for (j = 1; j <= i; j++) {
-            printf("* ");
+            printf("+");
         }
         // Move to the next line after each row
         printf("\n");
