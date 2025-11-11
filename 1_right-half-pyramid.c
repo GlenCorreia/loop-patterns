@@ -10,7 +10,7 @@ int main() {
     for (i = 1; i <= rows; i++) {
         // Inner loop for printing character in each row
         for (j = 1; j <= i; j++) {
-            printf("+");
+            printf("*");
         }
         // Move to the next line after each row
         printf("\n");
@@ -18,13 +18,3 @@ int main() {
 
     return 0;
 }
-
-/* OUTPUT: Right Half Pyramid
-
-  Enter the number of rows: 5
-  *
-  * *
-  * * *
-  * * * *
-  * * * * *
-*/

@@ -8,23 +8,13 @@ int main() {
 
   for (i = rows; i > 0; i--) {
     for (j = 1; j <= i; j++) {
-      printf("+");
+      printf("*");
     }
     printf("\n");
   }
 
   return 0;
 }
-
-/* OUTPUT: Inverted Right Half Pyramid
-
-  Enter the number of rows: 5
-  * * * * *
-  * * * * 
-  * * *
-  * *
-  * 
-*/
 
 /* Alternate loop logic
   for (i = rows; i >= 1; i--) {

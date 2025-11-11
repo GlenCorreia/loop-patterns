@@ -12,7 +12,7 @@ int main() {
     }
 
     for (j = rows; j >= 1; j--) { // by replacing rows here with an absolute number, we can make the number of characters appear in constant on each line
-      printf(" +");
+      printf(" *");
     }
 
     printf("\n");
@@ -20,13 +20,3 @@ int main() {
 
   return 0;
 }
-
-/* OUTPUT: Rhombus Pattern
-
-  Enter the number of rows: 5
-   + + + + +
-    + + + + +
-     + + + + +
-      + + + + + 
-       + + + + +
-*/
