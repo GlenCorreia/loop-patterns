@@ -2,7 +2,7 @@
 
 
 ```
-a. Right Half Pyramid
+[x] a. Right Half Pyramid
 ---
 *
 * *
